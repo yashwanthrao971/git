@@ -1,2 +1,2 @@
 # git practice
-bug branch changed
+this is new-bug branch from bug branch
